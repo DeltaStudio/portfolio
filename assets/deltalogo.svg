@@ -1,0 +1,161 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="17%" height="auto" viewBox="0 0 1891.001 550" xml:space="preserve">
+<defs>
+					<style>
+						#text {
+							-moz-animation: fadelogo 2.5s cubic-bezier(.59,.65,.16,0) forwards;
+							-o-animation: fadelogo 2.5s cubic-bezier(.59,.65,.16,0) forwards;
+							-webkit-animation: fadelogo 2.5s cubic-bezier(.59,.65,.16,0) forwards;
+							animation: fadelogo 2.5s cubic-bezier(.59,.65,.16,0) forwards;
+						}
+						#boxtop {
+							stroke-dasharray: 2500;
+							stroke-dashoffset:0;
+							-moz-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							-o-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							-webkit-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+						}
+
+						@-webkit-keyframes logoborder {
+							0% {
+								stroke-dashoffset: 2500;
+							}
+							40% {
+								stroke-dashoffset: 1990;
+							}
+							55% {
+								stroke-dashoffset: 1990;
+							}
+							100% {
+								stroke-dashoffset: 0;
+							}
+						}
+						@-moz-keyframes logoborder {
+							0% {
+								stroke-dashoffset: 2500;
+							}
+							40% {
+								stroke-dashoffset: 1990;
+							}
+							55% {
+								stroke-dashoffset: 1990;
+							}
+							100% {
+								stroke-dashoffset: 0;
+							}
+						}
+						@-o-keyframes logoborder {
+							0% {
+								stroke-dashoffset: 2500;
+							}
+							40% {
+								stroke-dashoffset: 1990;
+							}
+							55% {
+								stroke-dashoffset: 1990;
+							}
+							100% {
+								stroke-dashoffset: 0;
+							}
+						}
+						@keyframes logoborder {
+							0% {
+								stroke-dashoffset: 2500;
+							}
+							40% {
+								stroke-dashoffset: 1990;
+							}
+							55% {
+								stroke-dashoffset: 1990;
+							}
+							100% {
+								stroke-dashoffset: 0;
+							}
+						}
+						@-webkit-keyframes fadelogo {
+							0% {
+								opacity: 0;
+							}
+							50% {
+								opacity: 0;	
+							}
+							100% {
+								opacity: 1;
+							}
+						}
+						@-moz-keyframes fadelogo {
+							0% {
+								opacity: 0;
+							}
+							50% {
+								opacity: 0;	
+							}
+							100% {
+								opacity: 1;
+							}
+						}
+						@-o-keyframes fadelogo {
+							0% {
+								opacity: 0;
+							}
+							50% {
+								opacity: 0;	
+							}
+							100% {
+								opacity: 1;
+							}
+						}
+						@keyframes fadelogo {
+							0% {
+								opacity: 0;
+							}
+							50% {
+								opacity: 0;	
+							}
+							100% {
+								opacity: 1;
+							}
+						}
+						#boxbottom {
+							stroke-dasharray: 2500;
+							stroke-dashoffset:0;
+							-moz-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							-o-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							-webkit-animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+							animation: logoborder 1s cubic-bezier(.59,.65,.16,0) forwards;
+						}
+
+					</style>
+				</defs>
+<title>Delta</title>
+<g id="text">
+	<text>Estudio de diseño y desarrollo web en Vigo</text>
+  	<desc>Estudio de diseño y desarrollo web en Vigo</desc>
+	<polygon style="fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" points="
+		1504.001,351.493 1576.251,210.169 1648.499,351.493 	"/>
+	
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" d="
+		M231.748,190.308v158.88V190.308z M231.748,190.308c0.118,0,34.204,0,34.32,0c124.308,0.208,127.185,158.88-0.016,158.88
+		c-0.035,0-34.269,0-34.305,0"/>
+	
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" d="
+		M569.13,190.547v158.4 M569.042,190.308h100 M569.042,348.948h100 M569.042,269.748h80"/>
+	
+		<polyline style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" points="
+		902.021,190.308 902.021,348.708 982.022,348.708 	"/>
+	
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" d="
+		M1265.001,192v159.196 M1195.144,190h139.713"/>
+</g>
+<g id="boxbottom">
+	
+		<polyline style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" points="
+		1872.522,21 1872.522,531 21.521,531 	"/>
+</g>
+<g id="boxtop">
+	
+		<polyline style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000;stroke-width:40;stroke-linecap:square;stroke-miterlimit:22.9256;" points="
+		20,530 20,20 1871.001,20 	"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+.tooltipster-light {
+	border-radius: 0px; 
+	background: #2e3842;
+	color: #ffffff;
+}
+.tooltipster-light .tooltipster-content {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 16px;
+	padding: 20px 20px;
+}
+
+.icons .icon {
+	cursor:pointer;
+	opacity:0.7;
+	transition: ease all 0.6s;
+}
+
+.icons .icon:hover {
+	opacity:1;
+}
