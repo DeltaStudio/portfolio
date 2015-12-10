@@ -2323,7 +2323,7 @@
 			/* opacity:0.7; */
 			background-color: transparent;
 			box-shadow: none !important;
-			color: #000000 !important;
+			color: #000000;
 
 			transition:ease all 0.6s;
 		}
@@ -3980,7 +3980,7 @@
     font-size: 2em!important;
 }
 .spotlight h2 {font-size: 1.5em;font-weight: 400;letter-spacing: 0.5em;}
-.spotlight .special {color:white; border: 1px solid white;color: white !important;}
+.spotlight .special {border: 1px solid white;}
 .gradient-viberaid {
 	background-image:-moz-linear-gradient(12% 39% -36deg,rgb(255,53,94) 50%,rgb(218,0,249) 100%); 
 	/* safari v4.0+ and by Chrome v3.0+ */
@@ -4041,4 +4041,66 @@
 	}
 	.next-card h2 {text-align:center;padding-top: 0px!important;}
 	.next-card .vertical {margin-left:0;}
+}
+
+/* General button style (reset) */
+.btn {
+	border: none;
+	color: white!important;
+	cursor: pointer;
+	display: inline-block;
+	text-transform: uppercase;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.btn:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+/* Button 1 */
+.btn-1 {
+	border: 3px solid #fff;
+	color: #fff;
+}
+
+/* Button 1d */
+.btn-1d {
+	overflow: hidden;
+}
+
+.btn-1d:after {
+	width: 0;
+	height: 103%;
+	top: 50%;
+	left: 50%;
+	background: #fff;
+	opacity: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.btn-1d:hover,
+.btn-1d:active {
+	color: #000!important;
+}
+
+.btn-1d:hover:after {
+	width: 110%;
+	opacity: 1;
+}
+
+.btn-1d:active:after {
+	width: 101%;
+	opacity: 1;
 }
